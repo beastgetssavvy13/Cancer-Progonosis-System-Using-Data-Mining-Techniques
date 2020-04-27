@@ -2,7 +2,7 @@
 
 <i><h3>For this Project reates risk groups of patients by dividing the population in blocks with 
 Similar health Conditions and Demographics levels, so as to apply various clustering techniques 
-and predict the Survival.
+and predict the Survival.</i>
 <HR>
  <BR><H1>Algorithms Involved
  <H3>K-means Clustering Algorithm:<br><p>Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the inter-cluster data points as similar as possible while also keeping the clusters as different (far) as possible. It assigns data points to a cluster such that the sum of the squared distance between the data points and the cluster’s centroid (arithmetic mean of all the data points that belong to that cluster) is at the minimum. The less variation we have within clusters, the more homogeneous (similar) the data points are within the same cluster.</p>
